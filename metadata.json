@@ -1,0 +1,5 @@
+{
+  "name": "911 Calls Channel",
+  "description": "A fictional entertainment app that generates and narrates funny, scary, and ridiculous 911 calls using AI. Users can browse genres, listen to narrated stories with different voices, comment on calls, and even submit their own story ideas.",
+  "requestFramePermissions": []
+}
